@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;300;400&display=swap');
+
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+}
+
+.hero {
+  background: url(./assets/hero-bg.jpg) center no-repeat;
+  background-size: cover;
+  height: 89vh;
+}
+
+.about {
+  background: url(./assets/about-bg.jpg) center no-repeat;
+  background-size: cover;
+}
